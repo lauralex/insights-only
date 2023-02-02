@@ -1,0 +1,25 @@
+Deep learning frameworks ->
+	1st page:
+	- Deep learning frameworks (nvidia page)
+
+Ml papers ->
+	1st page:
+	- paperswithcode.com (ML research papaers with linked code repos)
+
+AI models inference API ->
+	1st page:
+	- huggingface.co (Inference API page)
+	- nlpcloud.com
+	- onnx.ai
+	- pipeline.ai (serverless gpu inference for ML models)
+	- Replicate.com (run open-source machine learning models)
+
+Pytorch models ->
+	1st page:
+	- huggingface.co
+	2nd page:
+	- modelzoo.co (browse ml frameworks and models)
+	- captum.ai (model interpretability for pytorch)
+	4th page:
+	- onnxruntime.ai (ml accelerator by Microsoft, thanks Bill Gates)
+	- kaggle.com (various ml datasets, tasks, etc.) (good for learning ml)

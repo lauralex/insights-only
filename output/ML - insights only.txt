@@ -1,0 +1,23 @@
+deep learning frameworks (nvidia page) ->
+  - deep learning frameworks : 1
+paperswithcode.com ->
+  - ml papers : 1
+huggingface.co ->
+  - ai models inference api : 1
+  - pytorch models : 1
+nlpcloud.com ->
+  - ai models inference api : 1
+onnx.ai ->
+  - ai models inference api : 1
+pipeline.ai ->
+  - ai models inference api : 1
+replicate.com ->
+  - ai models inference api : 1
+modelzoo.co ->
+  - pytorch models : 2
+captum.ai ->
+  - pytorch models : 2
+onnxruntime.ai ->
+  - pytorch models : 4
+kaggle.com ->
+  - pytorch models : 4

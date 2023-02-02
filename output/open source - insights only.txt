@@ -1,0 +1,65 @@
+octoverse ->
+  - open source projects stats : 1
+opensource.guide ->
+  - open source projects stats : 1
+  - open source projects analytics : 2
+  - github repos analytics : 3
+  - open source popular repositories : 2
+  - open source metrics : 1
+ossinsight.io ->
+  - open source projects stats : 1
+  - top github projects : 3
+  - github insights : 2
+  - github repos with most stars per day : 2
+  - github most popular repositories : 2
+  - open source popular repositories : 1
+madnight.github.io ->
+  - open source projects stats : 3
+  - github most popular repositories : 3
+gitstar-ranking.com ->
+  - top github projects : 2
+  - github repos with most stars per day : 1
+  - github most popular repositories : 1
+libhunt.com ->
+  - open source projects analytics : 1
+repo-tracker.com ->
+  - github repos analytics : 1
+ossinsight github page ->
+  - github insights : 1
+pingcap.com ->
+  - github repos with most stars per day : 2
+gitmostwanted.com ->
+  - github most popular repositories : 1
+trending repositories on github today (github page) ->
+  - open source popular repositories : 1
+awesome-elixir github repo ->
+  - elixir libs : 1
+elixir libhunt (linked by the "awesome-elixir" github repo) ->
+  - elixir libs : 1
+libraries.io ->
+  - elixir libs : 1
+  - go libs : 1
+awesome-go (github repo) ->
+  - go libs : 1
+pkg.go.dev ->
+  - go libs : 1
+go libhunt ->
+  - go libs : 1
+lib.rs ->
+  - rust libraries : 1
+crates.io ->
+  - rust libraries : 1
+awesome-rust (github repo) ->
+  - rust libraries : 1
+exercism.org ->
+  - rust libraries : 1
+kandi openweaver (linked by awesome-rust) ->
+  - rust libraries : 1
+prometheus.io ->
+  - open source metrics : 1
+grafana.com ->
+  - open source metrics : 1
+huggingface.co ->
+  - open source metrics : 1
+programming-idioms.org ->
+  - programming lang idioms : 1

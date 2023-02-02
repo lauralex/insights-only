@@ -1,0 +1,86 @@
+Open source projects stats ->
+	1st page:
+	- Octoverse
+	- Opensource.guide -- libraries.io
+	- Ossinsight.io (made by pingcap, TiDB maker. Using OpenAI models)
+	3rd page:
+	- Madnight.github.io
+	
+Top github projects ->
+	2nd page:
+	- gitstar-ranking.com
+	3rd page:
+	- ossinsight.io
+
+Open source projects analytics ->
+	1st page:
+	- libhunt.com
+	2nd page:
+	- Opensource.guide
+
+Github repos analytics ->
+	1st page:
+	- repo-tracker.com
+	3rd page:
+	- opensource.guide
+	
+Github insights ->
+	1st page:
+	- ossinsight github page
+	2nd page:
+	- ossinsight.io
+
+Github repos with most stars per day ->
+	1st page:
+	- gitstar-ranking.com
+	2nd page:
+	- ossinsight.io
+	- pingcap.com
+
+Github most popular repositories ->
+	1st page:
+	- gitstar-ranking.com
+	- gitmostwanted.com
+	2nd page:
+	- ossinsight.io
+	3rd page:
+	- madnight.github.io (githut 2.0)
+
+Open source popular repositories ->
+	1st page:
+	- Trending repositories on github today (Github page)
+	- ossinsight.io
+	2nd page:
+	- opensource.guide
+
+Elixir libs ->
+	1st page:
+	- awesome-elixir github repo
+	- elixir libhunt (linked by the "awesome-elixir" github repo)
+	- libraries.io (software libraries categorized per lang and per package manager)
+
+Go libs ->
+	1st page:
+	- awesome-go (github repo)
+	- pkg.go.dev
+	- go libhunt
+	- libraries.io
+
+Rust libraries ->
+	1st page:
+	- lib.rs
+	- crates.io	
+	- awesome-rust (github repo)
+	- exercism.org (linked by awesome-rust)
+	- kandi openweaver (linked by awesome-rust)
+	
+Open source metrics ->
+	1st page:
+	- opensource.guide
+	- prometheus.io
+	- grafana.com
+	- huggingface.co
+
+Programming lang idioms ->
+	1st page:
+	- programming-idioms.org
